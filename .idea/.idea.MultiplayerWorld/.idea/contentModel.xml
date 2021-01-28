@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\james\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\james\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_MultiplayerWorld.1612189085.00" t="ExcludeRecursive" />
+    <e p="C:\Users\james\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_MultiplayerWorld.1372120402.00" t="ExcludeRecursive" />
     <e p="C:\Users\james\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
-    <e p="J:\Epic Games\Unreal\MultiplayerWorld 4.26" t="IncludeFlat">
+    <e p="U:\Epic Games\Unreal\MultiplayerWorld4.26" t="IncludeFlat">
+      <e p=".gitattributes" t="Include" />
+      <e p=".gitignore" t="Include" />
       <e p="Config" t="Include">
         <e p="DefaultEditor.ini" t="Include" />
         <e p="DefaultEngine.ini" t="Include" />
@@ -21,6 +23,7 @@
       <e p="MultiplayerWorld.sln" t="IncludeFlat" />
       <e p="MultiplayerWorld.uproject" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
+      <e p="README.md" t="Include" />
       <e p="Source" t="Include">
         <e p="MultiplayerWorld" t="Include">
           <e p="Custom" t="Include">
@@ -12630,6 +12633,91 @@
           </e>
         </e>
       </e>
+    </e>
+    <e p="U:\UE_4.26\Engine\Plugins\Marketplace\BlockoutToolsPlugin" t="Include">
+      <e p="BlockoutToolsPlugin.uplugin" t="Include" />
+      <e p="Resources" t="Include">
+        <e p="BlockoutToolsIcon64.png" t="Include" />
+        <e p="Icon128.png" t="Include" />
+      </e>
+      <e p="Source" t="Include">
+        <e p="BlockoutToolsEditorPlugin" t="Include">
+          <e p="BlockoutToolsEditorPlugin.Build.cs" t="Include" />
+          <e p="Private" t="Include">
+            <e p="BlockoutToolsEditorPlugin.cpp" t="Include" />
+          </e>
+          <e p="Public" t="Include">
+            <e p="BlockoutToolsEditorPlugin.h" t="Include" />
+          </e>
+        </e>
+        <e p="BlockoutToolsPlugin" t="Include">
+          <e p="BlockoutToolsPlugin.Build.cs" t="Include" />
+          <e p="Private" t="Include">
+            <e p="BlockoutToolsParent.cpp" t="Include" />
+            <e p="BlockoutToolsParent.h" t="Include" />
+            <e p="BlockoutToolsPlugin.cpp" t="Include" />
+          </e>
+          <e p="Public" t="Include">
+            <e p="BlockoutToolsPlugin.h" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="U:\UE_4.26\Engine\Plugins\Marketplace\MantlingSystem" t="Include">
+      <e p="MantlingSystem.uplugin" t="Include" />
+      <e p="Resources" t="Include">
+        <e p="Icon128.png" t="Include" />
+      </e>
+      <e p="Source" t="Include">
+        <e p="MantlingSystem" t="Include">
+          <e p="MantlingSystem.Build.cs" t="Include" />
+          <e p="Private" t="Include">
+            <e p="MantlingSystem.cpp" t="Include" />
+            <e p="MantlingSystemComponent.cpp" t="Include" />
+          </e>
+          <e p="Public" t="Include">
+            <e p="MantlingSystem.h" t="Include" />
+            <e p="MantlingSystemComponent.h" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="U:\UE_4.26\Engine\Plugins\Marketplace\VaFogOfWar" t="Include">
+      <e p="Resources" t="Include">
+        <e p="Icon128.png" t="Include" />
+      </e>
+      <e p="Source" t="Include">
+        <e p="VaFogOfWar" t="Include">
+          <e p="Private" t="Include">
+            <e p="VaFogAgentComponent.cpp" t="Include" />
+            <e p="VaFogBlockingVolume.cpp" t="Include" />
+            <e p="VaFogBoundsVolume.cpp" t="Include" />
+            <e p="VaFogController.cpp" t="Include" />
+            <e p="VaFogDefines.h" t="Include" />
+            <e p="VaFogLayer.cpp" t="Include" />
+            <e p="VaFogLibrary.cpp" t="Include" />
+            <e p="VaFogOfWar.cpp" t="Include" />
+            <e p="VaFogRadiusStrategy.cpp" t="Include" />
+            <e p="VaFogSettings.cpp" t="Include" />
+            <e p="VaFogTerrainLayer.cpp" t="Include" />
+          </e>
+          <e p="Public" t="Include">
+            <e p="VaFogAgentComponent.h" t="Include" />
+            <e p="VaFogBlockingVolume.h" t="Include" />
+            <e p="VaFogBoundsVolume.h" t="Include" />
+            <e p="VaFogController.h" t="Include" />
+            <e p="VaFogLayer.h" t="Include" />
+            <e p="VaFogLibrary.h" t="Include" />
+            <e p="VaFogOfWar.h" t="Include" />
+            <e p="VaFogRadiusStrategy.h" t="Include" />
+            <e p="VaFogSettings.h" t="Include" />
+            <e p="VaFogTerrainLayer.h" t="Include" />
+            <e p="VaFogTypes.h" t="Include" />
+          </e>
+          <e p="VaFogOfWar.Build.cs" t="Include" />
+        </e>
+      </e>
+      <e p="VaFogOfWar.uplugin" t="Include" />
     </e>
     <e p="U:\UE_4.26\Engine\Plugins\Media\AjaMedia" t="Include">
       <e p="AjaMedia.uplugin" t="Include" />
