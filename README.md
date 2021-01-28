@@ -1,4 +1,8 @@
 # MultiplayerWorld4.26
+
+Uses Git LFS and is required to properly download some of the files
+------------------------------------------------------------------------------------------------
+
 Steam API enabled project allowing clients to connect to sessions via internet using Steam API
 
 ------------------------------------------------------------------------------------------------
